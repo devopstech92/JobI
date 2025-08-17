@@ -1,2 +1,0 @@
-# JobI
-automation for jobI
