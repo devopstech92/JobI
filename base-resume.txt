@@ -1,0 +1,120 @@
+
+MOHAMED IBRAHIM
+Email: devopstech1992@gmail.com | Phone: +20 102 397 7067 | Portfolio: devopstech92.github.io/MohamedIbrahim/
+| Willing to Consider Remote, Hybrid , Relocation | Availability: Immediate
+PROFESSIONAL SUMMARY
+Senior Network Automation Leader with 10 years of experience in designing, optimizing, and securing large-scale enterprise and
+ISP network infrastructures. Specializes in Network Programmability, NetDevOps, Multi-Vendor Integration, and Infrastructure as
+Code (GPON, FTTx, MPLS, BGP, 4G/5G). Utilizes Python automation, REST APIs, Ansible, Cloud Migration, and NETCONF/YANG
+to improve network performance, efficiency, and reliability. Experienced in leading cross-functional teams, managing multi-million
+dollar projects, and delivering solutions for over 11 million subscribers.
+PROFESSIONAL EXPERIENCE
+Senior Network Automation Engineer September 2021 – Present
+Self Employed - International Clients
+● Designed and deployed scalable, secure access networks, achieving 20% cost reduction and improved operational
+efficiency through architecture optimization.
+● Implemented AI-powered network automation frameworks using Python and ML, optimizing performance and reducing
+downtime by 15% with enhanced threat detection.
+● Orchestrated multi-vendor interoperability solutions (Huawei, Cisco, ZTE), improving network efficiency by 25% and
+reducing operational overhead by 30%.
+● Configured Wi-Fi mesh systems, ONTs, VDSL, CPEs, and TR-069 ACS, reducing troubleshooting by 30% and improving
+customer satisfaction.
+● Developed custom network optimization scripts using Python and REST APIs, reducing latency by 10ms and enhancing
+end-user experience across international deployments.
+● Conducted remote network audits for clients across 15+ countries, identifying bottlenecks and implementing Infrastructure
+as Code for 15% improved scalability.
+● Upskilled in advanced network automation, cloud technologies, and DevOps, transitioning expertise into senior consulting
+roles.
+Access Layer Network Engineer March 2019 – September 2021
+Leading Internet Service Provider - Egypt
+● Architected and validated GPON, MSAN, and last-mile solutions using Huawei, ZTE, and Nokia platforms, ensuring
+market readiness and design compliance for 21 new product launches.
+● Led benchmark testing and firmware customization with 20+ vendor R&D teams, optimizing device performance and
+compatibility by 80% through strategic upgrades.
+● Enhanced service uptime and reliability by 60% through CPE deployment and proactive monitoring across 50+ locations.
+● Increased network throughput by 35% via efficient lab-to-field integration and automated deployment, streamlining
+procedures.
+● Facilitated cross-functional coordination among technical teams, customer service, and vendor engineering, delivering
+seamless solutions for 11+ million subscribers.
+● Oversaw Wi-Fi mesh, VDSL router, and ONT rollout across 12 new regions, prioritizing end-user experience and
+operational efficiency with a 95% deployment success rate.
+Retail Technical Support Specialist January 2017 – February 2019
+Leading Internet service Provider - Egypt
+● Provided hands-on technical support and equipment configuration, reducing repeat customer contacts by 25% through
+in-person guidance.
+● Maintained high customer satisfaction via direct problem resolution and technical consultation.
+● Trained and mentored 14 junior engineers, improving internal ticket flow efficiency by 35%.
+Technical Support Specialist and Team Lead May 2014 – December 2016
+Leading Internet service Provider - Egypt
+● Diagnosed and resolved complex L1/L2 connectivity issues (DSL, fiber, Wi-Fi), achieving a 96% first-contact resolution
+rate.
+● Analyzed 30,000+ support tickets, providing data-driven insights for firmware and service delivery improvements.
+● Maintained 92%+ customer satisfaction and established contact center best practices.
+KEY ACHIEVEMENTS
+● Pioneered network automation for 8M+ devices, improving ISP network performance by 25%.
+● Reduced critical network downtime by 20% by implementing AI-driven automation and predictive maintenance
+frameworks.
+● Achieved 92% first-contact resolution in complex technical support, enhancing customer satisfaction across 40K+ tickets.
+● Led cross-functional teams, optimizing network efficiency by 35% through multi-vendor integration strategies.
+● Managed network infrastructure for 11M+ subscribers, maintaining 90% uptime across 70 deployment sites.
+TECHNICAL SKILLS
+● Network Architecture and Infrastructure
+Enterprise Network Design, Service Provider Networks, Data Center Networking, Network Planning and Optimization,
+High Availability (HA), Disaster Recovery (DR), Network Segmentation, Quality of Service (QoS), Network Security,
+Performance Tuning, Infrastructure as Code, Cloud Migration.
+● Routing and Switching Protocols
+OSPF, BGP, EIGRP, ISIS, IPv4/IPv6, MPLS, L2VPN, L3VPN, Traffic Engineering, VLAN, STP, EtherChannel,
+HSRP/VRRP, VRF, PPPoE, IGMP Snooping, NAT.
+● Network Security and Compliance
+Vulnerability Assessment, Threat Detection and Mitigation, Network Hardening, Penetration Testing, Ethical Hacking,
+Access Control, Data Privacy, Firewalls, VPNs, IDS/IPS, TACACS+, DDoS Mitigation.
+● Network Automation and Programmability
+Python, Bash, JSON, YAML, XML, Configuration Management, REST APIs, NETCONF, RESTCONF, SNMP, TR-069,
+Ansible, Postman, Git, Custom Test Scripting, SDN, NFV, SD-WAN, Docker, VM Management, Cloud-Native Networks.
+● Access Technologies
+GPON, XGPON, MSAN, DSLAM, FTTx, Triple-Play Service Delivery, ONT, ONU, Wi-Fi 6/5/2.4, Mesh Networks,
+Dual-Band, Channel Planning, Band Steering, CPE, 4G/5G Infrastructure, ITU/IEEE Standards, Last-Mile Solutions.
+● Vendor Platforms and Monitoring Tools
+Cisco IOS, IOS-XE, IOS-XR, Catalyst, ASR, Nexus, DNA Center, CML, GNS3, Huawei MA5600T, MA5800, U2000, ZTE
+C300/C320, Nokia ISAM, Wireshark, UNMS, Spectrum Analyzers, Optical Power Meters, OTDRs.
+KEY TECHNICAL PROJECTS
+●  Network Automation Platform
+○ Pioneered network automation for 8M+ devices, improving ISP network performance by 25%.
+○ Reduced critical network downtime by 20% by implementing AI-driven automation and predictive maintenance
+frameworks.
+○ Achieved 92% first-contact resolution in complex technical support, enhancing customer satisfaction across
+40K+ tickets.
+○ Led cross-functional teams, optimizing network efficiency by 35% through multi-vendor integration strategies.
+○ Managed network infrastructure for 11M+ subscribers, maintaining 90% uptime across 70 deployment sites.
+● Multi-Vendor GPON Integration and Standardization
+○ Led integration of Huawei, ZTE, and Nokia GPON platforms across 3 regional network expansions.
+○ Supported 2M+ subscribers through integrated platform deployment.
+○ Developed standardized configuration templates and automation scripts using Ansible and Python.
+○ Accelerated GPON OLT and ONT deployment, reducing initial time by 40%.
+○ Improved network efficiency by 25% and reduced deployment costs by 10% for new GPON service areas.
+○ Implemented streamlined provisioning workflows, enhancing operational efficiency.
+● Enterprise Wi-Fi Mesh Optimization and Deployment
+○ Designed and implemented large-scale Wi-Fi mesh networks for enterprise clients.
+○ Supported 50+ simultaneous users per access point with seamless roaming.
+○ Utilized Python scripts for advanced channel planning, band steering, and load balancing.
+○ Optimized performance in complex RF environments through advanced configuration management.
+○ Achieved 90%+ uptime and improved user experience across 70+ deployment sites.
+○ Achieved 95% client retention and significant contract renewals.
+EDUCATION
+Bachelor of Engineering (B.Eng) in Electronics and Communications September 2008 - September 2013
+GEI Institute Cairo, Egypt
+● Graduation Project: Developed an automated testing tool that evaluated and optimized 2G/3G mobile network
+performance in laboratory environments.
+CERTIFICATIONS AND PROFESSIONAL DEVELOPMENT
+● ITIL v4 IT Service Management Framework (2022).
+● Network Automation and Programmability: Python, Ansible, REST APIs (2021).
+● Wi-Fi Optimization, Heat Mapping and Network Design (2021).
+● Cisco Networking Technologies: Advanced Routing, Switching, Network Architecture (2020).
+● Fiber Optic GPON/XGPON Technologies and Implementation (2019).
+● Certified Ethical Hacker (CEH): Network Security and Penetration Testing (2020).
+● Infrastructure as Code and Cloud Migration Strategies (2022).
+ADDITIONAL INFORMATION
+● Languages: English (Fluent), Arabic (Native).
+● Security Clearance: Available upon request.
+● Travel: Available for international assignments and roles abroad.
+● Time Zone Flexibility: UTC+2 (Cairo) | Remote work across multiple time zones.
