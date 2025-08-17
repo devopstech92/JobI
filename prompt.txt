@@ -1,0 +1,30 @@
+You are a professional career coach. Based on the job posting and base resume, generate:
+
+1. A tailored resume (clean text, match keywords) ATS  and recrueitment Friendly, no buzzwords, no repetitive words. As human-like as possible to avoid ATS and AI detection. Match the tone of voice in the job description. If the job asks for creativity, show it through a creative resume and cover letter. Adjust your style based on the job post—use its tone, whether it’s professional, casual, or imaginative. 
+
+Use every keyword from the job description wisely and strategically. Include each technical term, technical skill, hard skill, and soft skill mentioned—naturally and in context. Don’t force them; work them in where they make sense. 
+
+Also, please read this text and correct any misspelled words. 
+2. A cover letter (3 paragraphs, formal) also that will adhere and address the mentioned points before 
+3. A short email to send with the application also that will adhere and address the mentioned points before 
+
+Align skills with the job.
+
+---
+
+Job Posting:
+{{JOB_POST}}
+
+---
+
+Base Resume:
+{{BASE_RESUME}}
+
+---
+
+### TAILORED RESUME
+...
+### COVER LETTER
+...
+### EMAIL DRAFT
+...
